@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CARDS>
+  <CARD>
+    <number>5567894523129089</number>
+    <expireDate>08/26</expireDate>
+    <holder>John DoE</holder>
+    <cardType>master</cardType>
+  </CARD>
+  <CARD>
+    <number>59012345678901234567890</number>
+    <expireDate>10/24</expireDate>
+    <holder>Lisa Claire</holder>
+    <cardType>Not identified</cardType>
+  </CARD>
+  <CARD>
+    <number>4123456789123</number>
+    <expireDate>04/26</expireDate>
+    <holder>Martha Clark</holder>
+    <cardType>visa</cardType>
+  </CARD>
+  <CARD>
+    <number>347856341908126</number>
+    <expireDate>03/23</expireDate>
+    <holder>Jane S. Dayton</holder>
+    <cardType>amex</cardType>
+  </CARD>
+  <CARD>
+    <number>6011111100007756</number>
+    <expireDate>02/24</expireDate>
+    <holder>John Doe</holder>
+    <cardType>discover</cardType>
+  </CARD>
+  <CARD>
+    <number>3601112345678789</number>
+    <expireDate>06/24</expireDate>
+    <holder>Lara Wayne</holder>
+    <cardType>Not identified</cardType>
+  </CARD>
+  <CARD>
+    <number>5167894523129089</number>
+    <expireDate>08/26</expireDate>
+    <holder>John Doe</holder>
+    <cardType>master</cardType>
+  </CARD>
+  <CARD>
+    <number>4123456789123999</number>
+    <expireDate>03/23</expireDate>
+    <holder>Jane Dayton</holder>
+    <cardType>visa</cardType>
+  </CARD>
+  <CARD>
+    <number>377856341908126</number>
+    <expireDate>03/25</expireDate>
+    <holder>Martha Clark</holder>
+    <cardType>amex</cardType>
+  </CARD>
+  <CARD>
+    <number>5367894523129089</number>
+    <expireDate>08/25</expireDate>
+    <holder>John Doe</holder>
+    <cardType>master</cardType>
+  </CARD>
+  <CARD>
+    <number>6011*890HJrt6789</number>
+    <expireDate>05/25</expireDate>
+    <holder>Jill Davis</holder>
+    <cardType>discover</cardType>
+  </CARD>
+  <CARD>
+    <number/>
+    <expireDate>08/26</expireDate>
+    <holder>John Doe</holder>
+    <cardType>Not identified</cardType>
+  </CARD>
+</CARDS>

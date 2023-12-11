@@ -1,0 +1,74 @@
+[
+  {
+    "number": "5567894523129089",
+    "expireDate": "08/26",
+    "holder": "John Doe",
+    "cardType": "master"
+  },
+  {
+    "number": "59012345678901234567890",
+    "expireDate": "10/24",
+    "holder": "Lisa Claire",
+    "cardType": "Not identified"
+  },
+  {
+    "number": "4123456789123",
+    "expireDate": "04/26",
+    "holder": "Martha Clark",
+    "cardType": "visa"
+  },
+  {
+    "number": "347856341908126",
+    "expireDate": "03/23",
+    "holder": "Jane S. Dayton",
+    "cardType": "amex"
+  },
+  {
+    "number": "6011111100007756",
+    "expireDate": "02/24",
+    "holder": "John Doe",
+    "cardType": "discover"
+  },
+  {
+    "number": "3601112345678789",
+    "expireDate": "06/24",
+    "holder": "Lara Wayne",
+    "cardType": "Not identified"
+  },
+  {
+    "number": "5167894523129089",
+    "expireDate": "08/26",
+    "holder": "John Doe",
+    "cardType": "master"
+  },
+  {
+    "number": "4123456789123999",
+    "expireDate": "03/23",
+    "holder": "Jane Dayton",
+    "cardType": "visa"
+  },
+  {
+    "number": "377856341908126",
+    "expireDate": "03/25",
+    "holder": "Martha Clark",
+    "cardType": "amex"
+  },
+  {
+    "number": "5367894523129089",
+    "expireDate": "08/25",
+    "holder": "John Doe",
+    "cardType": "master"
+  },
+  {
+    "number": "6011*890HJrt6789",
+    "expireDate": "05/25",
+    "holder": "Jill Davis",
+    "cardType": "discover"
+  },
+  {
+    "number": "N/A",
+    "expireDate": "08/26",
+    "holder": "John Doe",
+    "cardType": "Not identified"
+  }
+]
