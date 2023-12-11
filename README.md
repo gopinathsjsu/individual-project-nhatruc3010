@@ -21,9 +21,9 @@ The design pattern I used in the project is polymorphism and inheritance. As a r
 
 The secondary problem from the Part1, I extended input formats. We have three different types of input reader Json, XML and CSV. Based on the input extension, different reader will be used. 
 
-### Design Pattern: 
+### Design Pattern
 
-The design pattern that I used is the Factory Method Pattern. 
+The design pattern that I used is the Factory Method Pattern. The consequesce of using this pattern are able to have better flexibility to add more types of credit cards.
 
 ### Class Diagram
 
@@ -32,6 +32,10 @@ The design pattern that I used is the Factory Method Pattern.
 ### Overall Class Diagram
 
 ![class_diagram_2](./design/img_2.png)
+
+### Coverage Testing
+
+![class_diagram_2](./design/img_3.png)
 
 
 ---
