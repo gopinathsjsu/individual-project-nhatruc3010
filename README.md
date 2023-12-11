@@ -3,7 +3,9 @@
 # CMPE 202 - Individual Project
 
 **Student Name:** Ivy Vo (Truc Vo)
+
 **Student ID:** 011071489  
+
 **Git Repository:** [Individual Project Repository]https://github.com/gopinathsjsu/individual-project-nhatruc3010)
 
 ## Primary Problem
@@ -12,7 +14,7 @@ The primary problem I try to solve is designing with object oriented concepts. F
 
 ### Design Pattern
 
-The design pattern I used in the project is polymorphism and inheritance. As a result, with the abstract class, we abstracted different types of credit cards into one class and simplified interfaces. Moreover, thanks to this simplified interface, it is easy to add other different types of card. 
+The design pattern I used in the project is Strategy. As a result, with the abstract class, we abstracted different types of credit cards (i.e AmExCC, DiscoverCC, MasterCC, VisaCC) into one class and simplified interfaces. Moreover, thanks to this simplified interface, it is easy to add other different types of card. 
 
 ### Credit Card Object Class Diagram
 ![class_diagram_1](./design/img_1.png)
